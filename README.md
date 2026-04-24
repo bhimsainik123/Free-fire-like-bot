@@ -2,7 +2,7 @@
 
 > **DEVELOPED BY SUMEDH**  
 > A powerful Free Fire Discord bot with likes, autolike scheduler, player info, token management and more.
-
+### join my discord for bot [discord server](https://bhimsainik.qzz.io)
 ---
 
 ## 📸 Preview
