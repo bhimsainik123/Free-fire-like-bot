@@ -14,7 +14,7 @@
 ![AutoLike Embed](Screenshot_20260424_070421.jpg)
 
 ### 👑 /info Command
-![Info Embed](info.png)
+![Info Embed](Screenshot_20260424_085116.jpg)
 
 ### 🧬 /bio Command
 ![Bio Embed](Screenshot_2026_0424_074019.png)
