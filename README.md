@@ -1,1 +1,0 @@
-# Free-fire-like-bot
